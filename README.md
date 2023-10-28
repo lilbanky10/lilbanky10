@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lilbanky10
+- 👋 Hi, I’m olajuwon bankole
 - 👀 I’m interested in coding and web dvelopment
 - 🌱 I’m currently learning Html and javascript
 - 💞️ I’m looking to collaborate on ...
